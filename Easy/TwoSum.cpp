@@ -1,5 +1,5 @@
 
-// Site URL : https://leetcode.com/problems/two-sum/description/
+// Leet URL : https://leetcode.com/problems/two-sum/description/
 
 
 class Solution {
