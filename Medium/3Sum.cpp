@@ -98,14 +98,12 @@ public:
         {
         
             int numberToInsert = numFreq.first;
-
             newVector.push_back(numberToInsert);
             if( numFreq.second >= 2)
                 newVector.push_back(numberToInsert);
 
             if (numberToInsert == 0 && numFreq.second > 2)
                 newVector.push_back(numberToInsert);
-
 
         }
 
